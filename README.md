@@ -18,11 +18,44 @@ Hey Dev, já considerou a possibilidade de se tornar ainda mais potente para o m
  - [Reforçando o Conceito de Laços em Java](https://certificates.digitalinnovation.one/F6A857EA)
  - Mentoria #3: Como resolver os desafios de código
  - [Resolvendo Desafios de Código em Java](https://certificates.digitalinnovation.one/C56B7178)
- - [Desafio Java Iniciante - Cognizant Developer]()
+ - [Desafio Java Iniciante - Cognizant Developer](https://github.com/abaldezjr/bootcamp-cognizant-java-developer/tree/master/java)
+ - [Estruturas de Dados em Java: Introdução](https://certificates.digitalinnovation.one/C5D142F4)
+ - [Estruturas de Dados em Java: Pilhas e Filas](https://certificates.digitalinnovation.one/0D35592D)
+ - [Estruturas de Dados em Java: Listas](https://certificates.digitalinnovation.one/AA17B072)
+ - [Estruturas de Dados em Java: Árvores](https://certificates.digitalinnovation.one/EF6C32A5)
+ - [Estruturas de Dados em Java: Principais Implementações](https://certificates.digitalinnovation.one/3A78CA12)
+ - [Introdução a orientação a objetos com Java](https://certificates.digitalinnovation.one/DFCC1776)
+ - [Debugging Java](https://certificates.digitalinnovation.one/6EE29496)
+ - [Tratamento de Exceções em Java](https://certificates.digitalinnovation.one/4713E979)
+ - [Trabalhando com Collections Java](https://certificates.digitalinnovation.one/6005F8B8)
+ - [Introdução a microsserviços](https://certificates.digitalinnovation.one/B02322D1)
+ - [Introdução a Qualidade de Software](https://certificates.digitalinnovation.one/33DBC8ED)
+ - [Aprenda a aplicar testes com Java](https://certificates.digitalinnovation.one/B0076C3E)
+ - [Desafio Java - Cognizant Developer](https://github.com/abaldezjr/bootcamp-cognizant-java-developer/tree/master/java)
  - []()
  - []()
- - []()
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
  
  
