@@ -32,30 +32,16 @@ Hey Dev, já considerou a possibilidade de se tornar ainda mais potente para o m
  - [Introdução a Qualidade de Software](https://certificates.digitalinnovation.one/33DBC8ED)
  - [Aprenda a aplicar testes com Java](https://certificates.digitalinnovation.one/B0076C3E)
  - [Desafio Java - Cognizant Developer](https://github.com/abaldezjr/bootcamp-cognizant-java-developer/tree/master/java)
- - []()
- - []()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
+ - [Criando um Banco Digital com Java e Orientação a Objetos](https://certificates.digitalinnovation.one/5D817C09)
+ - [SQL SERVER - Criando suas primeiras consultas](https://certificates.digitalinnovation.one/CC9D1E64)
+ - [Modelando um banco de dados na prática com SQL SERVER](https://certificates.digitalinnovation.one/5D75160B)
+ - [SQL Server: Boas práticas em bancos relacionais](https://certificates.digitalinnovation.one/CB92105F)
+ - [Introdução a APIs e métodos HTTP](https://certificates.digitalinnovation.one/7B59E051)
+ - [Introdução ao framework Spring Boot](https://certificates.digitalinnovation.one/8490780C)
+ - [Simplificando Projetos Java com o Spring Boot](https://certificates.digitalinnovation.one/E22C491A)
+ - [Introdução aos Conceitos de API e Clean Architecture](https://certificates.digitalinnovation.one/FDEBF05B)
+ - [Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot](https://certificates.digitalinnovation.one/1AB0C643)
+ - Mentoria #4: Consumindo uma API Rest. Faça um projeto junto com os Experts da Cognizant
+ - [Criando API Gateways no ambiente Azure Spring Cloud](https://certificates.digitalinnovation.one/C89B609C)
+ - Mentoria #5:  Function as a Service (FaaS) o que é e como utilizá-las
  
