@@ -1,7 +1,5 @@
 # bootcamp-cognizant-java-developer
 
-![cognizant](https://hermes.digitalinnovation.one/tracks/a814466a-ab18-4618-8c81-ce877b95e4f7.png)
-
 ## Cognizant Java Developer
 Hey Dev, já considerou a possibilidade de se tornar ainda mais potente para o mercado, se especializando na tecnologia de desenvolvimento mais utilizada no mundo? Se sim, este é o seu momento de brilhar! O Bootcamp Cognizant Java Developer foi pensado exclusivamente para o seu desenvolvimento na tecnologia de Java, contendo uma sequência completa de cursos, mentorias e desafios. Não perca essa chance e inscreva-se já!
 
